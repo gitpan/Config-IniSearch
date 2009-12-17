@@ -49,10 +49,12 @@ CHANGES
 
 0.01  Sat Jul  5 00:58:21 2003
 	- original version
+0.02  Wed Dec 16 21:40:00 2009
+    - finally fixed the tests after 6 years
 
 COPYRIGHT AND LICENCE
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
 
-Copyright (C) 2003 Brian Koontz <brian@pongonova.net>
+Copyright (C) 2009 Brian Koontz <brian@pongonova.net>

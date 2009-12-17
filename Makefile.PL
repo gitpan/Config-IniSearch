@@ -4,7 +4,7 @@ use ExtUtils::MakeMaker;
 WriteMakefile(
     'NAME'		=> 'Config::IniSearch',
     'VERSION_FROM'	=> 'IniSearch.pm', # finds $VERSION
-    'PREREQ_PM'		=> {}, # e.g., Module::Name => 1.1
+    'PREREQ_PM'		=> {'Config::IniHash' => '0'}, # e.g., Module::Name => 1.1
     ($] >= 5.005 ?    ## Add these new keywords supported since 5.005
       (ABSTRACT_FROM => 'IniSearch.pm', # retrieve abstract from module
        AUTHOR     => 'Brian Koontz <brian@pongonova.net>') : ()),
