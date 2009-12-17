@@ -1,4 +1,4 @@
-Config/IniSearch version 0.01
+Config/IniSearch version 0.03
 =============================
 
 This module provides a wrapper class for Config::IniHash to allow the
@@ -51,6 +51,8 @@ CHANGES
 	- original version
 0.02  Wed Dec 16 21:40:00 2009
     - finally fixed the tests after 6 years
+0.03  Wed Dec 16 22:15:00 2009
+    - version number updates
 
 COPYRIGHT AND LICENCE
 

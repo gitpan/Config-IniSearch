@@ -9,7 +9,7 @@ use Config::IniHash;
 require Exporter;
 our @ISA = qw( Exporter );
 
-our $VERSION = '0.01'; 
+our $VERSION = '0.03'; 
 our $GLOBAL_INI = "global.ini";
 
 =head1 NAME
